@@ -50,10 +50,10 @@ Handling missing data(Imputation strategies).
 
 
 Improvements Over Original:
-✅ More structured & professional formatting. 
-✅ Clearer bullet points for better readability.  
-✅ Added "Future Work" section for scalability. 
-✅ More precise survival rate statistics.
-✅ Better flow from overview to findings.  
+More structured & professional formatting. 
+Clearer bullet points for better readability.  
+Added "Future Work" section for scalability. 
+More precise survival rate statistics.
+Better flow from overview to findings.  
 
 
